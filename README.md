@@ -7,3 +7,4 @@ A binder contains at least two things:
 2. Configuration file for building the environment, which is "environment.yml" in this case. 
 
 To run the code in the Jupyter Notebook, click on the below badge. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ray800413/binder-example/master?filepath=index.ipynb)
